@@ -6,12 +6,14 @@
     border: 2px solid #000;
 }
 
+
 #left{
     width: 240px;
     background-color: #f2f2f2;
     height: 335px;
     border: 2px solid #000;
 }
+
 
 #middle {
     width: 568px;
@@ -28,3 +30,128 @@
     background-color: rgb(0, 0, 106);
     border: 2px solid #000;
 }
+
+
+#vierkant{
+    font-size: 48px;
+    width: 96px;
+    height: 96px;
+    background-color: white;
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
+
+#BlauwVierkantje{
+    width: 20px;
+    height: 20px;
+    background-color: rgb(0, 0, 106);
+    margin-top: -96px;
+    margin-left: 15px;
+    
+}
+
+#Spoor{
+    font-weight: bold;
+    font-size: 15px;
+    color: rgb(0, 0, 106);
+    margin-top: -20px;
+    margin-left: 35px;
+}
+
+#SpoorBNummer{
+    font-weight: bold;
+    font-size: 60px;
+    color: rgb(0, 0, 106);
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+#Stad{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 15px;
+    color: rgb(0, 0, 106);
+}
+
+#Via{
+    font-size: 20px;
+    margin-left: 15px;
+    color: rgb(0, 0, 106);
+}
+
+#SpoorLetter{
+    font-size: 30px;
+    color: rgb(0, 0, 106);
+    margin-top: -60px;
+    margin-left: 90px;
+}
+
+#VolgendeTrein{
+    width: 480px;
+    height: 25px;
+    background-color:  rgb(0, 0, 150);
+    margin-top: 200px;
+    margin-left: 0px;
+    border: 2px solid #000;
+
+}
+
+#VolgendeTreinText{
+    font-size: 20px;
+    color: white;
+    margin-top: -25px;
+    margin-left: 15px;
+}
+
+#rechthoek{
+    border: 2px solid #000;
+    width: 480px;
+    height: 240px;
+    background-color: white;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+#rechthoekTwee{
+    width: 245px;
+    height: 40px;
+    background-color:  white;
+    margin-top: -242px;
+    margin-left: 2px;
+}
+
+#Tijd{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -115px;
+    margin-left: 15px;
+    color: rgb(0, 0, 106);
+}
+
+#Minuten{
+    font-size: 30px;
+    margin-top: -33px;
+    margin-left: 35px;
+    color: rgb(0, 0, 106);
+}
+
+img {
+    display: flex;
+    width: auto;
+    height: 35px;
+    margin-top: -260px;
+    margin-left: 390px;
+  }
+
+
+  
+  #Intercity{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -33px;
+    margin-left: 260px;
+    color: rgb(0, 0, 106);
+  }
+
+ 
